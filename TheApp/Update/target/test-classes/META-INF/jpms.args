@@ -1,0 +1,4 @@
+--patch-module
+org.TheApp.Update=_
+--add-reads
+org.TheApp.Update=ALL-UNNAMED

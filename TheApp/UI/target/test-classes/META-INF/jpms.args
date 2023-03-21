@@ -1,0 +1,4 @@
+--patch-module
+org.TheApp.UI=_
+--add-reads
+org.TheApp.UI=ALL-UNNAMED
